@@ -17,3 +17,4 @@ public class permutation {
         permut(str ,"",0);
     }
 }
+// full code 
